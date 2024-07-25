@@ -104,7 +104,7 @@ function App() {
 
   return (
     <div className="App">
-      <table border={"1"}>
+      <table cellPadding={0} cellSpacing={0} border={"1"}>
         <thead>
           <th>Name</th>
           <th>Description</th>

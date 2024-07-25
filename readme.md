@@ -1,10 +1,15 @@
+# run backend using visual studio
+
 # frontend
-- npm install
-- npm run start
+
+- yarn install
+- yarn start
 
 # database install
+
 - install MySQL
 - please use the database infos to access
+
 ```
     Server=localhost
     Port=3306
@@ -12,5 +17,3 @@
     User=root
     Password=rootroot;
 ```
-
-# backend install and run
